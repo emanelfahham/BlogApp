@@ -5,3 +5,4 @@ Create Resful Routes
 Create POST request using body-parser
 Create DELETE route using method-override
 Styling with Semantic UI
+Deployed using Heroku
